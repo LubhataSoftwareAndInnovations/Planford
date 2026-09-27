@@ -153,5 +153,5 @@ If you imported `install/schema_sample_data.sql`, use any of the following demo 
 **Planford** is free software published under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
 
 Published & Maintained by **Lubhata - Software & Innovations**  
-Repository: [https://github.com/Lubhata/Planford](https://github.com/Lubhata/Planford)  
+Repository: [https://github.com/Lubhata/Planford](https://github.com/LubhataSoftwareAndInnovations/Planford)  
 License: [GNU AGPL-3.0](LICENSE)
