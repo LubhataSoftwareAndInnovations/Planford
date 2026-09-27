@@ -4,7 +4,7 @@
 [![PHP Version](https://img.shields.io/badge/PHP-8.2%2B-777BB4.svg)](https://www.php.net/)
 [![MySQL Version](https://img.shields.io/badge/MySQL-8.0%2B-4479A1.svg)](https://www.mysql.com/)
 [![Status](https://img.shields.io/badge/Status-Active_Development-orange.svg)](#-active-development-notice)
-[![Publisher](https://img.shields.io/badge/Publisher-Lubhata_--_Software_%26_Innovations-6366f1.svg)](https://github.com/Lubhata/Planford)
+[![Publisher](https://img.shields.io/badge/Publisher-Lubhata_--_Software_%26_Innovations-6366f1.svg)](https://github.com/LubhataSoftwareAndInnovations/Planford)
 
 **Planford** is a modern, high-performance, open-source Enterprise Program & Delivery Management platform engineered by **Lubhata - Software & Innovations**. It provides multi-methodology execution (**Agile Scrum**, **Kanban**, **Waterfall / V-Model**, and **Hybrid Delivery**), quality governance gates, Earned Value Management (EVM) financial controls, RACI matrices, and 5x5 risk heatmaps.
 
