@@ -1,0 +1,7 @@
+# Logs & temporary files
+*.log
+scratch/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
